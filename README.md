@@ -1,4 +1,6 @@
-<h1>Hello, nice to meet you here on my profile! My name is Maksym, i am Python developer. Feel free to wander around) </h1>
+<h1>HELLO, NICE TO MEET YOU HERE ON MY PROFILE!
+  MY NAME IS MAKSYM, I AM PYTHON DEVELOPER.
+  FEEL FREE TO WANDER AROUND)</h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/MXoEoAUeBXapi/giphy.gif" width="500"/>

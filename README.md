@@ -1,9 +1,9 @@
 <h1 align="center">>𝙃𝙀𝙇𝙇𝙊, 𝙉𝙄𝘾𝙀 𝙏𝙊 𝙈𝙀𝙀𝙏 𝙔𝙊𝙐 𝙃𝙀𝙍𝙀 𝙊𝙉 𝙈𝙔 𝙋𝙍𝙊𝙁𝙄𝙇𝙀!<br>  𝙈𝙔 𝙉𝘼𝙈𝙀 𝙄𝙎 𝙈𝘼𝙆𝙎𝙔𝙈, 𝙄 𝘼𝙈 𝙋𝙔𝙏𝙃𝙊𝙉 𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍.<br>  𝙁𝙀𝙀𝙇 𝙁𝙍𝙀𝙀 𝙏𝙊 𝙒𝘼𝙉𝘿𝙀𝙍 𝘼𝙍𝙊𝙐𝙉𝘿 :)</h1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/8qFQA9iD8FS1Txuv9N/giphy.gif" width="200" height="500"/>
-  <img src="https://media.giphy.com/media/1oFT5UBBFFfXOLxrXJ/giphy.gif" width="200" height="500"/>
-  <img src="https://media.giphy.com/media/4YZNYcTybcYTnROykG/giphy.gif" width="200" height="500"/>
+  <img src="https://media.giphy.com/media/8qFQA9iD8FS1Txuv9N/giphy.gif" width="200" height="400"/>
+  <img src="https://media.giphy.com/media/1oFT5UBBFFfXOLxrXJ/giphy.gif" width="200" height="400"/>
+  <img src="https://media.giphy.com/media/4YZNYcTybcYTnROykG/giphy.gif" width="200" height="400"/>
 </div>
 
 <div id="icons" background-color='white' align="center">

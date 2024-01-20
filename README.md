@@ -17,5 +17,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
 </div>
 
-<h2>Check out my projects!</h2>
-<img src="https://thumb.ac-illust.com/f5/f5ddf4a4745509cf29d6237d8c8b34f0_t.jpeg)" alt='' width="400px">
+<h2 align="center">Check out my projects!</h2>
+<img align="center" src="https://thumb.ac-illust.com/f5/f5ddf4a4745509cf29d6237d8c8b34f0_t.jpeg" alt='' width="400px">

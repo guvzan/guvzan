@@ -4,7 +4,6 @@
   <img src="https://media.giphy.com/media/MXoEoAUeBXapi/giphy.gif" width="500"/>
 </div>
 
-<h1>Technologies i use:</h1>
 <div id="icons" background-color='white' align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="50" height="50"/>&nbsp;
@@ -17,3 +16,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
 </div>
+
+<img src="![image](https://github.com/guvzan/guvzan/assets/55750045/ea3e5244-933e-4b67-87e4-8e88b23a112c)" alt='' width="400px">

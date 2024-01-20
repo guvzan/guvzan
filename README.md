@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://tenor.com/bCNex.gif" width="500"/>
+  <img src="https://media.giphy.com/media/MXoEoAUeBXapi/giphy.gif" width="500"/>
 </div>

@@ -2,7 +2,8 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/8qFQA9iD8FS1Txuv9N/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/8qFQA9iD8FS1Txuv9N/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/1oFT5UBBFFfXOLxrXJ/giphy.gif" width="200"/>
+  <img src="[https://media.giphy.com/media/1oFT5UBBFFfXOLxrXJ/giphy.gi](https://media.giphy.com/media/4YZNYcTybcYTnROykG/giphy.gif)f" width="200"/>
 </div>
 
 <div id="icons" background-color='white' align="center">

@@ -1,6 +1,8 @@
+<span style="font-family: 'Lucida Console';">
 <h1 align="center">HELLO, NICE TO MEET YOU HERE ON MY PROFILE!<br>
   MY NAME IS MAKSYM, I AM PYTHON DEVELOPER.<br>
   FEEL FREE TO WANDER AROUND)</h1>
+  </span>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/MXoEoAUeBXapi/giphy.gif" width="500"/>

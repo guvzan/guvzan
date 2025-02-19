@@ -27,13 +27,9 @@
 </p>
 
 <div align="center">
-  <h2>Explore My Projects</h2>
-  <img src="https://thumb.ac-illust.com/f5/f5ddf4a4745509cf29d6237d8c8b34f0_t.jpeg" alt="Projects" width="300px">
-</div>
-
-<div align="center">
   <h2>Let's Connect</h2>
   <p>
+    <img src="https://thumb.ac-illust.com/f5/f5ddf4a4745509cf29d6237d8c8b34f0_t.jpeg" alt="Projects" width="300px"><br>
     Feel free to explore my repositories or reach out on <a href="https://t.me/guvzan">Telegram</a> or via <a href="mailto:maksymhovzan@gmail.com">email</a>.
   </p>
 </div>

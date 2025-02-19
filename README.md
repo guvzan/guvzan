@@ -36,6 +36,6 @@
 <div align="center">
   <h2>Let's Connect</h2>
   <p>
-    Feel free to explore my repositories or reach out on <a href="[t.me/guvzan](https://t.me/guvzan)">Telegram</a> or via <a href="mailto:maksymhovzan@gmail.com">email</a>.
+    Feel free to explore my repositories or reach out on <a href="https://t.me/guvzan">Telegram</a> or via <a href="mailto:maksymhovzan@gmail.com">email</a>.
   </p>
 </div>

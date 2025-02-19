@@ -4,9 +4,7 @@
 </h1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/8qFQA9iD8FS1Txuv9N/giphy.gif" width="200" height="200"/>
-  <img src="https://media.giphy.com/media/1oFT5UBBFFfXOLxrXJ/giphy.gif" width="200" height="200"/>
-  <img src="https://media.giphy.com/media/4YZNYcTybcYTnROykG/giphy.gif" width="200" height="200"/>
+  <img src="https://i.pinimg.com/originals/e5/0f/9b/e50f9b6ca7d64c49edee884958210912.gif" width="450" height="200"/>
 </div>
 
 <div id="icons" align="center">

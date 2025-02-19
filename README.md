@@ -20,7 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
 </div>
 
-<div align="justify">
+<div align="center">
   <h2>About Me</h2>
 </div>
 
@@ -36,6 +36,6 @@
 <div align="center">
   <h2>Let's Connect</h2>
   <p>
-    Feel free to explore my repositories or reach out on <a href="@guvzan">Telegram</a> or via <a href="mailto:maksymhovzan@gmail.com">email</a>.
+    Feel free to explore my repositories or reach out on <a href="t.me/guvzan">Telegram</a> or via <a href="mailto:maksymhovzan@gmail.com">email</a>.
   </p>
 </div>
